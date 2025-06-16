@@ -1,4 +1,3 @@
-package com.Backtracking;
 
 public class mazeWithObstacle {
     public static void main(String[] args) {
