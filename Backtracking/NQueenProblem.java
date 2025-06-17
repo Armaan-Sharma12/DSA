@@ -1,4 +1,3 @@
-package com.Backtracking;
 
 
 public class NQueenProblem {
