@@ -1,4 +1,3 @@
-package com.Arraysss;
 
 public class diagonalSum {
     public static void main(String[] args) {
