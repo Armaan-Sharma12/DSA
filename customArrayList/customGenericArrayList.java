@@ -1,4 +1,3 @@
-package com.CustomArrayList;
 
 import java.util.Arrays;
 
