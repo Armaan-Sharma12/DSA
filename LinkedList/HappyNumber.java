@@ -1,4 +1,3 @@
-package com.LinkedList;
 
 public class HappyNumber {
     public boolean isHappy(int n) {
