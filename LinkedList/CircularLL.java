@@ -1,4 +1,3 @@
-package com.LinkedList;
 
 public class CircularLL {
     private int size;
