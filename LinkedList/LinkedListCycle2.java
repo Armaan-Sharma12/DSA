@@ -1,5 +1,4 @@
-package com.LinkedList;
-//
+//Leetcode question
 public class LinkedListCycle2 {
     class ListNode {
       int val;
