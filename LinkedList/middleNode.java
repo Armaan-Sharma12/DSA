@@ -1,4 +1,4 @@
-package com.LinkedList;
+
 //https://leetcode.com/problems/middle-of-the-linked-list/
 public class middleNode {
     public class ListNode {
