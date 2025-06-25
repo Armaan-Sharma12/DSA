@@ -1,4 +1,3 @@
-package com.LinkedList;
 
 import java.util.ArrayList;
 
