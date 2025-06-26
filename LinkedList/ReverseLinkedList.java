@@ -1,4 +1,3 @@
-package com.LinkedList;
 
 public class ReverseLinkedList {
     private node head;
