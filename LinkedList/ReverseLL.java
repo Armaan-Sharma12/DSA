@@ -1,4 +1,4 @@
-package com.LinkedList;
+
 //https://leetcode.com/problems/reverse-linked-list
 
 public class ReverseLL {
