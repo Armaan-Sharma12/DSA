@@ -1,4 +1,3 @@
-package com.LinkedList;
 //https://leetcode.com/problems/sort-list/
 public class SortLL {
     public class ListNode {
