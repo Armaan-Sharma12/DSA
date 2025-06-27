@@ -1,4 +1,3 @@
-package com.LinkedList;
 
 public class RotateLl {
     public class ListNode {
