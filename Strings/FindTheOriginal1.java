@@ -1,4 +1,4 @@
-package com.Strings;
+
 
 public class FindTheOriginal1 {
     public static int possibleStringCount(String word) {
