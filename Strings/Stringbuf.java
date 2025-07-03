@@ -1,4 +1,4 @@
-package com.StringBuffer;
+
 
 public class Stringbuf {
     public static void main(String[] args) {
