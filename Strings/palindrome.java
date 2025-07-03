@@ -1,4 +1,4 @@
-package com.Strings;
+
 
 public class palindrome {
     public static boolean palindromeString(String ch) {
