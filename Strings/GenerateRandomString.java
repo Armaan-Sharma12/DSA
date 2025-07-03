@@ -1,4 +1,4 @@
-package com.StringBuffer;
+
 import java.util.Random;
 public class GenerateRandomString {
     public static void generate(int l){
