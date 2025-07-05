@@ -1,4 +1,3 @@
-package com.Tree;
 
 public class AVLTree {
     public class Node {
