@@ -1,4 +1,3 @@
-package com.Tree;
 
 import java.util.Scanner;
 
