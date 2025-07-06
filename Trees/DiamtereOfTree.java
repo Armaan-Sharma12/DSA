@@ -1,4 +1,4 @@
-package com.Tree;
+
 //https://leetcode.com/problems/diameter-of-binary-tree/description/
 public class DiamtereOfTree {
     public class TreeNode {
