@@ -1,4 +1,3 @@
-package com.Tree;
 
 public class InvertBinaryTree {
     public class TreeNode {
