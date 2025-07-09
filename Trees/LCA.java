@@ -1,4 +1,4 @@
-package com.Tree;
+
 //https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 public class LCA {
     public class TreeNode {
