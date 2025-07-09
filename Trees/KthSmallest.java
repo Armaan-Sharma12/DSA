@@ -1,4 +1,4 @@
-package com.Tree;
+
 //https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1688091152/
 public class KthSmallest {
     public class TreeNode {
