@@ -1,4 +1,4 @@
-package com.Tree;
+
 //https://leetcode.com/problems/binary-tree-maximum-path-sum/
 public class MaxPathSum {
     public class TreeNode {
