@@ -1,4 +1,3 @@
-package com.Tree;
 //https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 public class MaxDepth {
     public class TreeNode {
