@@ -1,4 +1,4 @@
-package com.Tree;
+
 //https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 public class PopulatingNextRightPointer {
     class Node {
