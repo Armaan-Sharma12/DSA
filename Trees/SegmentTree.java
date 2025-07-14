@@ -1,4 +1,3 @@
-package com.Tree;
 
 public class SegmentTree {
     private static class Node{
