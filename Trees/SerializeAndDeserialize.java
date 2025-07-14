@@ -1,4 +1,4 @@
-package com.Tree;
+
 //https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 import java.util.ArrayList;
 import java.util.Arrays;
