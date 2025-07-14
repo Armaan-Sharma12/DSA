@@ -1,4 +1,4 @@
-package com.Tree;
+
 //https://leetcode.com/problems/sum-root-to-leaf-numbers/
 public class SumNumbersIfromLeaf {
     public class TreeNode {
