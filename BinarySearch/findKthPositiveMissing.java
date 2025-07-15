@@ -1,4 +1,4 @@
-package com.binarySearch;
+
 //https://leetcode.com/problems/kth-missing-positive-number/submissions/1693114122/
 import java.util.ArrayList;
 
