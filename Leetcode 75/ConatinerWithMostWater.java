@@ -1,4 +1,4 @@
-package com.Leetcode75;
+
 //https://leetcode.com/problems/container-with-most-water/submissions/1703299003/?envType=study-plan-v2&envId=leetcode-75
 public class ConatinerWithMostWater {
     class Solution {
