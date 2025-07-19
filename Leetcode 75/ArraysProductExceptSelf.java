@@ -1,4 +1,4 @@
-package com.Leetcode75;
+
 import java.util.Arrays;
 //https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=leetcode-75
 public class ArraysProductExceptSelf {
