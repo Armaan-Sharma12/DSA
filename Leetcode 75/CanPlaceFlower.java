@@ -1,4 +1,4 @@
-package com.Leetcode75;
+
 //https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75
 public class CanPlaceFlower {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
