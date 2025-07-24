@@ -1,4 +1,4 @@
-package com.Leetcode75;
+
 //https://leetcode.com/problems/maximum-average-subarray-i/?envType=study-plan-v2&envId=leetcode-75
 public class MaximumAverageSubArray {
     public double findMaxAverage(int[] nums, int k) {
