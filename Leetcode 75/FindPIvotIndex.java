@@ -1,4 +1,4 @@
-package com.Leetcode75;
+
 //https://leetcode.com/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75
 public class FindPIvotIndex {
     public int pivotIndex(int[] nums) {
