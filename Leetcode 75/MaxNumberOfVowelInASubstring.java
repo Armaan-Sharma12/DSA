@@ -1,4 +1,3 @@
-package com.Leetcode75;
 //https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/?envType=study-plan-v2&envId=leetcode-75
 public class MaxNumberOfVowelInASubstring {
     public int maxVowels(String s, int k) {
