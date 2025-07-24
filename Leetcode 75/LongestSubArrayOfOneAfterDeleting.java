@@ -1,4 +1,3 @@
-package com.Leetcode75;
 //https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/?envType=study-plan-v2&envId=leetcode-75
 public class LongestSubArrayOfOneAfterDeleting {
     public int longestSubarray(int[] nums) {
