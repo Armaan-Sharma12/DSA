@@ -1,4 +1,4 @@
-package com.Leetcode75;
+
 //https://leetcode.com/problems/asteroid-collision/?envType=study-plan-v2&envId=leetcode-75
 import java.util.Stack;
 
