@@ -1,4 +1,4 @@
-package com.Leetcode75;
+
 //https://leetcode.com/problems/equal-row-and-column-pairs/?envType=study-plan-v2&envId=leetcode-75
 import java.util.ArrayList;
 import java.util.HashMap;
