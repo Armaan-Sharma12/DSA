@@ -1,4 +1,3 @@
-package com.Leetcode75;
 //https://leetcode.com/problems/removing-stars-from-a-string/?envType=study-plan-v2&envId=leetcode-75
 import java.util.Stack;
 
