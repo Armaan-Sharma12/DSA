@@ -1,4 +1,4 @@
-package com.LinkedList;
+
 
 public class RemoveNthElement {
     public class ListNode {
